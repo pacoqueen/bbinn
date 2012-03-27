@@ -494,14 +494,22 @@ class Ventana:
         vacerca.set_name('Geotex-INN')
         from menu import __version__
         vacerca.set_version(__version__)
-        vacerca.set_comments('Software ERP para Geotexan')
-        vacerca.set_authors(['Francisco José Rodríguez Bogado <rodriguez.bogado@gmail.com>', 'Diego Muñoz Escalante <escalant3@gmail.com>'])
-        logo = gtk.gdk.pixbuf_new_from_file(os.path.join('..', 'imagenes', 'logo.jpg'))
+        vacerca.set_name('BB-INN')
+        vacerca.set_version(__version__)
+        vacerca.set_comments('Software de gestión para BitBlue')
+        vacerca.set_authors(['Francisco José Rodríguez Bogado '
+                             '<rodriguez.bogado@gmail.com>'])
+        config = ConfigConexion()
+        logo = gtk.gdk.pixbuf_new_from_file(
+            os.path.join('..', 'imagenes', config.get_logo()))
+        logo = escalar_a(300, 200, logo)
         vacerca.set_logo(logo)
         vacerca.set_license(open(os.path.join('..', 'gpl.txt')).read())
-        vacerca.set_website('http://ginn.sf.net')
-        vacerca.set_artists(['Iconos gartoon por Kuswanto (a.k.a. Zeus) <zeussama@gmail.com>'])
-        vacerca.set_copyright('Copyright 2005-2008  Francisco José Rodríguez Bogado, Diego Muñoz Escalante.')
+        vacerca.set_website('https://github.com/pacoqueen/bbinn')
+        vacerca.set_artists(['Iconos gartoon por Kuswanto (a.k.a. Zeus) '
+                             '<zeussama@gmail.com>'])
+        vacerca.set_copyright('Copyright 2005-2012  Francisco José Rodríguez'
+                              ' Bogado, Diego Muñoz Escalante.')
         vacerca.run()
         vacerca.destroy()
 
