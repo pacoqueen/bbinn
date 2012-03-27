@@ -745,12 +745,12 @@ class Menu:
         gtk.about_dialog_set_email_hook(self.launch_browser_mailer, 'email')
         gtk.about_dialog_set_url_hook(self.launch_browser_mailer, 'web')
         vacerca = gtk.AboutDialog()
-        vacerca.set_name('Geotex-INN')
+        vacerca.set_name('BB-INN')
         vacerca.set_version(__version__)
-        vacerca.set_comments('Software ERP para Geotexan')
+        vacerca.set_comments('Software de gestión para BitBlue\n'
+                             '(forked from ginn)')
         vacerca.set_authors(['Francisco José Rodríguez Bogado '
-                             '<rodriguez.bogado@gmail.com>', 
-                             'Diego Muñoz Escalante <escalant3@gmail.com>'])
+                             '<bogado@qinn.es>'])
         config = ConfigConexion()
         logo = gtk.gdk.pixbuf_new_from_file(
             os.path.join('..', 'imagenes', config.get_logo()))
@@ -760,7 +760,7 @@ class Menu:
         vacerca.set_website('http://ginn.sf.net')
         vacerca.set_artists(['Iconos gartoon por Kuswanto (a.k.a. Zeus) '
                              '<zeussama@gmail.com>'])
-        vacerca.set_copyright('Copyright 2005-2010  Francisco José Rodríguez'
+        vacerca.set_copyright('Copyright 2005-2012  Francisco José Rodríguez'
                               ' Bogado, Diego Muñoz Escalante.')
         vacerca.run()
         vacerca.destroy()
