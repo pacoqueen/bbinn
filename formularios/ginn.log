@@ -34854,3 +34854,1519 @@
 2012-03-02 13:44:39,078 WARNING PARTE ID 15364 (02/03/2012, 09:31-13:35): Consumiendo 0,01 de AGUJAS PLACAS DE 3" para el rollo R268940. Existencias: 300.344,99
 2012-03-02 13:44:39,108 WARNING PARTE ID 15364 (02/03/2012, 09:31-13:35): Consumiendo 0,33 de TUBO DE CARTON 102X109X5530 para el rollo R268940. Existencias: 9.305,00
 2012-03-02 13:44:39,108 WARNING PARTE ID 15364 (02/03/2012, 09:31-13:35): Consumiendo 0,33 de TUBO DE CARTON 102X109X5530 para el rollo R268940. Existencias: 9.305,00
+2012-03-22 17:57:59,640 WARNING LOGIN CORRECTO: admin. IP: Desconocida. Host: sobremesa
+2012-03-22 17:58:03,046 WARNING admin: Favoritos
+2012-03-22 17:58:03,171 WARNING admin: Menú iniciado
+2012-03-22 17:58:11,515 WARNING admin: Gestión de usuarios
+2012-03-22 17:58:11,625 WARNING admin: Gestión de usuarios
+2012-03-22 17:58:11,796 WARNING admin: Cargar: usuarios.py
+2012-03-22 18:01:24,765 WARNING admin: General
+2012-03-22 18:01:24,765 WARNING admin: General
+2012-03-22 18:01:25,858 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:25,858 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:25,967 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:25,967 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:25,967 WARNING admin: Cargar: clientes.py
+2012-03-22 18:01:25,967 WARNING admin: Cargar: clientes.py
+2012-03-22 18:01:40,671 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,671 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,671 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,812 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,812 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,812 WARNING admin: Cartera de clientes 
+2012-03-22 18:01:40,812 WARNING admin: Cargar: clientes.py
+2012-03-22 18:01:40,812 WARNING admin: Cargar: clientes.py
+2012-03-22 18:01:40,812 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:10,608 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,608 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,608 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,608 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,608 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,733 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,733 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,733 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,733 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,733 WARNING admin: Cartera de clientes 
+2012-03-22 18:23:10,750 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:10,750 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:10,750 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:10,750 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:10,750 WARNING admin: Cargar: clientes.py
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,280 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,421 WARNING admin:  Catálogo de productos de venta (fibra) 
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:15,703 WARNING admin: Cargar: productos_de_venta_balas.py
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:19,608 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,390 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,515 WARNING admin: Configurar motivos de ausencia 
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:20,546 WARNING admin: Cargar: motivos_ausencia.py
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:23:26,765 WARNING LOGOUT: admin
+2012-03-22 18:33:41,687 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:33:43,405 WARNING ajusticia: Favoritos
+2012-03-22 18:33:43,467 WARNING ajusticia: Menú iniciado
+2012-03-22 18:33:56,765 WARNING LOGOUT: ajusticia
+2012-03-22 18:34:33,078 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:34:34,375 WARNING ajusticia: Favoritos
+2012-03-22 18:34:34,467 WARNING ajusticia: Menú iniciado
+2012-03-22 18:36:23,717 WARNING LOGOUT: ajusticia
+2012-03-22 18:37:23,140 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:37:24,592 WARNING ajusticia: Favoritos
+2012-03-22 18:37:24,640 WARNING ajusticia: Menú iniciado
+2012-03-22 18:37:29,125 WARNING LOGOUT: ajusticia
+2012-03-22 18:37:34,203 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:37:35,687 WARNING ajusticia: Favoritos
+2012-03-22 18:37:35,717 WARNING ajusticia: Menú iniciado
+2012-03-22 18:37:42,780 WARNING LOGOUT: ajusticia
+2012-03-22 18:38:05,342 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:38:06,640 WARNING ajusticia: Favoritos
+2012-03-22 18:38:06,687 WARNING ajusticia: Menú iniciado
+2012-03-22 18:38:58,796 WARNING LOGOUT: ajusticia
+2012-03-22 18:39:14,546 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:39:15,828 WARNING ajusticia: Favoritos
+2012-03-22 18:39:15,858 WARNING ajusticia: Menú iniciado
+2012-03-22 18:39:20,171 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:39:22,421 WARNING ajusticia: General
+2012-03-22 18:39:23,608 WARNING ajusticia: Cartera de clientes 
+2012-03-22 18:39:23,750 WARNING ajusticia: Cartera de clientes 
+2012-03-22 18:39:23,921 WARNING ajusticia: Cargar: clientes.py
+2012-03-22 18:39:29,983 WARNING ajusticia:  Contadores para facturas de clientes 
+2012-03-22 18:39:29,983 WARNING ajusticia:  Contadores para facturas de clientes 
+2012-03-22 18:39:30,108 WARNING ajusticia:  Contadores para facturas de clientes 
+2012-03-22 18:39:30,108 WARNING ajusticia:  Contadores para facturas de clientes 
+2012-03-22 18:39:30,125 WARNING ajusticia: Cargar: contadores.py
+2012-03-22 18:39:30,125 WARNING ajusticia: Cargar: contadores.py
+2012-03-22 18:39:44,155 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,155 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,155 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,265 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,265 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,265 WARNING ajusticia: Mis datos de usuario
+2012-03-22 18:39:44,280 WARNING ajusticia: Cargar: ventana_usuario.py
+2012-03-22 18:39:44,280 WARNING ajusticia: Cargar: ventana_usuario.py
+2012-03-22 18:39:44,280 WARNING ajusticia: Cargar: ventana_usuario.py
+2012-03-22 18:39:51,500 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,500 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,500 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,500 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,640 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,640 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,640 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,640 WARNING ajusticia: Productos de compra 
+2012-03-22 18:39:51,640 WARNING ajusticia: Cargar: productos_compra.py
+2012-03-22 18:39:51,640 WARNING ajusticia: Cargar: productos_compra.py
+2012-03-22 18:39:51,640 WARNING ajusticia: Cargar: productos_compra.py
+2012-03-22 18:39:51,640 WARNING ajusticia: Cargar: productos_compra.py
+2012-03-22 18:39:54,687 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,687 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,687 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,687 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,687 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,780 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,780 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,780 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,780 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,780 WARNING ajusticia: Productos de venta «especiales» 
+2012-03-22 18:39:54,905 WARNING ajusticia: Cargar: productos_de_venta_especial.py
+2012-03-22 18:39:54,905 WARNING ajusticia: Cargar: productos_de_venta_especial.py
+2012-03-22 18:39:54,905 WARNING ajusticia: Cargar: productos_de_venta_especial.py
+2012-03-22 18:39:54,905 WARNING ajusticia: Cargar: productos_de_venta_especial.py
+2012-03-22 18:39:54,905 WARNING ajusticia: Cargar: productos_de_venta_especial.py
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,280 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,405 WARNING ajusticia:  Proveedores 
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:39:58,421 WARNING ajusticia: Cargar: proveedores.py
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,155 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:02,265 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,203 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,328 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:03,342 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,390 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,483 WARNING ajusticia:  Tipos de material de compra 
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:11,500 WARNING ajusticia: Cargar: tipos_material.py
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:15,578 WARNING ajusticia: Consultas
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:16,546 WARNING ajusticia: Comercial
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,280 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,405 WARNING ajusticia:  Pedidos de compra (a proveedores) 
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:17,421 WARNING ajusticia: Cargar: pedidos_de_compra.py
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,750 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:20,890 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:40:53,046 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:40:54,328 WARNING ajusticia: Favoritos
+2012-03-22 18:40:54,405 WARNING ajusticia: Menú iniciado
+2012-03-22 18:41:00,500 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:41:00,608 WARNING ajusticia:  Pedidos de venta (de clientes) 
+2012-03-22 18:41:00,765 WARNING ajusticia: Cargar: pedidos_de_venta.py
+2012-03-22 18:41:18,655 WARNING LOGIN CORRECTO: ajusticia. IP: Desconocida. Host: sobremesa
+2012-03-22 18:41:19,937 WARNING ajusticia: Favoritos
+2012-03-22 18:41:20,000 WARNING ajusticia: Menú iniciado
+2012-03-22 18:41:24,108 WARNING ajusticia: Comercial
+2012-03-22 18:41:26,000 WARNING ajusticia:  Presupuestos a clientes 
+2012-03-22 18:41:26,125 WARNING ajusticia:  Presupuestos a clientes 
+2012-03-22 18:41:26,296 WARNING ajusticia: Cargar: presupuestos.py
+2012-03-22 18:41:29,733 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:41:29,733 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:41:29,875 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:41:29,875 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:41:29,890 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:41:29,890 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:42:03,030 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,030 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,030 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,030 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,155 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,155 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,155 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,155 WARNING ajusticia:  Tarifas de precios 
+2012-03-22 18:42:03,155 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:42:03,155 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:42:03,155 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:42:03,155 WARNING ajusticia: Cargar: tarifas_de_precios.py
+2012-03-22 18:42:07,640 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,640 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,640 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,640 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,640 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,967 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,967 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,967 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,967 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:07,967 WARNING ajusticia:  Ver ventas sin pedido asignado 
+2012-03-22 18:42:08,092 WARNING ajusticia: Cargar: lineas_sin_pedido.py
+2012-03-22 18:42:08,092 WARNING ajusticia: Cargar: lineas_sin_pedido.py
+2012-03-22 18:42:08,092 WARNING ajusticia: Cargar: lineas_sin_pedido.py
+2012-03-22 18:42:08,092 WARNING ajusticia: Cargar: lineas_sin_pedido.py
+2012-03-22 18:42:08,092 WARNING ajusticia: Cargar: lineas_sin_pedido.py
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,265 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:17,437 WARNING ajusticia: Ayuda
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:18,671 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:19,562 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,342 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:22,500 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,875 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:23,983 WARNING ajusticia:  Acerca de... 
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:24,000 WARNING ajusticia: Abrir: "acerca de..."
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:29,983 WARNING ajusticia:  Ayuda on-line (mensajería instantánea) 
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:30,546 WARNING ajusticia: Almacén
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,640 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,765 WARNING ajusticia:  Albaranes de entrada de material 
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:31,780 WARNING ajusticia: Cargar: albaranes_de_entrada.py
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,733 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,858 WARNING ajusticia: Albaranes de salida 
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:34,875 WARNING ajusticia: Cargar: albaranes_de_salida.py
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,217 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,812 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,937 WARNING ajusticia:  Historial de productos de compra 
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:42:39,953 WARNING ajusticia: Cargar: historico_existencias_compra.py
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,358 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:25,983 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,108 WARNING ajusticia:  Histórico de existencias de productos de venta 
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:26,125 WARNING ajusticia: Cargar: historico_existencias.py
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,155 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,296 WARNING ajusticia:  Valoración de entradas en almacén 
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:30,312 WARNING ajusticia: Cargar: consulta_entradas_almacen.py
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,092 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:43,280 WARNING ajusticia: Administración
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,296 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,421 WARNING ajusticia:  Abonos sobre facturas de venta 
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:46,437 WARNING ajusticia: Cargar: abonos_venta.py
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,780 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,921 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:44:50,937 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:01,875 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,000 WARNING ajusticia:  Cuentas bancarias de la empresa 
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:02,015 WARNING ajusticia: Cargar: cuentas_origen.py
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:04,905 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,062 WARNING ajusticia:  Cuentas bancarias de proveedores 
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:05,078 WARNING ajusticia: Cargar: cuentas_destino.py
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,483 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,625 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:08,640 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,328 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,453 WARNING ajusticia:  Efectos de cobro 
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:34,467 WARNING ajusticia: Cargar: pagares_cobros.py
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,733 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,858 WARNING ajusticia:  Facturas de compra 
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:37,875 WARNING ajusticia: Cargar: facturas_compra.py
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,421 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,530 WARNING ajusticia: Facturas de compra pendientes de aprobación 
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:42,546 WARNING ajusticia: Cargar: consulta_pendientes_vto_bueno.py
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,467 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,608 WARNING ajusticia:  Facturas de venta 
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:50,625 WARNING ajusticia: Cargar: facturas_venta.py
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,733 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,875 WARNING ajusticia:  Facturas pendientes de revisar e imprimir 
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:45:55,890 WARNING ajusticia: Cargar: facturas_no_bloqueadas.py
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,765 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,890 WARNING ajusticia:  IVA devengado y soportado 
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:00,905 WARNING ajusticia: Cargar: iva.py
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,092 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,217 WARNING ajusticia:  Pago por transferencia 
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:04,233 WARNING ajusticia: Cargar: transferencias.py
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,687 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,812 WARNING ajusticia:  Recibos bancarios 
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:06,828 WARNING ajusticia: Cargar: recibos.py
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,515 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,921 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:10,937 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:11,108 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,640 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,765 WARNING ajusticia:  Vencimientos pendientes por cliente 
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:12,780 WARNING ajusticia: Cargar: vencimientos_pendientes_por_cliente.py
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-22 18:46:16,203 WARNING LOGOUT: ajusticia
+2012-03-27 15:14:29,203 WARNING Acceso erróneo. Usuario: admin. IP: Desconocida. Host: sobremesa
+2012-03-27 15:14:34,592 WARNING Acceso erróneo. Usuario: admin. IP: Desconocida. Host: sobremesa
+2012-03-27 15:14:43,358 WARNING LOGIN CORRECTO: admin. IP: Desconocida. Host: sobremesa
+2012-03-27 15:14:46,375 WARNING admin: Favoritos
+2012-03-27 15:14:46,483 WARNING admin: Menú iniciado
+2012-03-27 15:14:49,375 WARNING admin:  Pedidos de venta (de clientes) 
+2012-03-27 15:14:49,500 WARNING admin:  Pedidos de venta (de clientes) 
+2012-03-27 15:14:49,733 WARNING admin: Cargar: pedidos_de_venta.py
+2012-03-27 15:25:26,155 WARNING LOGIN CORRECTO: admin. IP: Desconocida. Host: sobremesa
+2012-03-27 15:25:28,046 WARNING admin: Favoritos
+2012-03-27 15:25:28,078 WARNING admin: Menú iniciado
+2012-03-27 15:25:34,421 WARNING admin:  Pedidos de venta (de clientes) 
+2012-03-27 15:25:34,578 WARNING admin:  Pedidos de venta (de clientes) 
+2012-03-27 15:25:34,828 WARNING admin: Cargar: pedidos_de_venta.py
