@@ -648,7 +648,7 @@ class Ventana:
             cursor_reloj = gtk.gdk.Cursor(gtk.gdk.WATCH)
             self.wids['ventana'].window.set_cursor(cursor_reloj)
             utils.set_unset_urgency_hint(self.wids['ventana'], False)
-            while gtk.events_pending(): gtk.main_iteration(False)
+            #while gtk.events_pending(): gtk.main_iteration(False)
         if DEBUG:
             print "1.- ventana.py::actualizar_ventana->", time.time() - antes
         if self.soy_ventana_consulta():

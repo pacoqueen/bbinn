@@ -89,6 +89,7 @@ except ImportError:
     import sys
     from os.path import join as pathjoin; sys.path.append(pathjoin("..", "framework"))
     import pclases
+#pclases.DEBUG = True	
 import mx
 import mx.DateTime
 from ventana_progreso import VentanaProgreso
